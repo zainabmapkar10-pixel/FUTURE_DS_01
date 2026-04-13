@@ -44,7 +44,9 @@ Steps performed:
 # Key Insights
 - Total Revenue: 13M
 - Total Profit: 1.47M
+- Total Orders: 51K
 - Profit Margin: 11.6%
+- Avg Order Value: 246.50
 - Technology category generates highest sales
 - High discounts reduce profitability
 - Some products cause significant losses
