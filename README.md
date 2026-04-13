@@ -14,7 +14,9 @@ This project analyzes business sales data to identify key trends, profitable pro
 
 # Dataset
 The dataset used in this project is the Superstore Sales Dataset, which contains business sales transaction data.
+
 Source: Kaggle - SuperStore Sales Dataset
+
 It includes:
 - Product details (name, category, sub-category)
 - Sales and profit values
@@ -26,6 +28,7 @@ This dataset is suitable for analyzing sales performance, profitability and busi
 
 # Data Cleaning & Preparation
 Before analysis, the dataset was cleaned and prepared to ensure accuracy and consistency.
+
 Steps performed:
 - Removed missing and duplicate values
 - Corrected data types (dates, numeric fields)
