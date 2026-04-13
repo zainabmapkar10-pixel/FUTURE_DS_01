@@ -58,3 +58,9 @@ Steps performed:
 
 # Outcome
 This dashboard helps businesses make data-driven decisions to improve profitability and growth.
+
+# Learnings
+- Improved data cleaning and preprocessing skills
+- Gained experience in building interactive dashboards
+- Learned how to generate business insights from data
+- Understood how analytics supports decision-making
