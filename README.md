@@ -61,6 +61,8 @@ Steps performed:
 <img width="1780" height="843" alt="image" src="https://github.com/user-attachments/assets/82d183a0-8189-4812-977c-bd0e46684ce1" />
 <img width="1787" height="842" alt="image" src="https://github.com/user-attachments/assets/ad57c69a-d619-4f2b-a003-5094d0488bec" />
 
+🔗 View Dashboard File: https://drive.google.com/drive/folders/16Eh8FrbhbjmgRBegKMtFAxDkoslR1jvS?usp=drive_link 
+
 # Outcome
 This dashboard helps businesses make data-driven decisions to improve profitability and growth.
 
