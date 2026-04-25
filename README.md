@@ -71,3 +71,6 @@ This dashboard helps businesses make data-driven decisions to improve profitabil
 - Gained experience in building interactive dashboards
 - Learned how to generate business insights from data
 - Understood how analytics supports decision-making
+
+# Author
+Zainab Mapkar Aspiring Data Analyst | Power BI Enthusiast
